@@ -42,3 +42,4 @@ $ python visualize.py
 Please let me know if there are mistakes or comments. Thanks!
 
 Youngwook Paul Kwon
+จัดไปใช้งานได้
